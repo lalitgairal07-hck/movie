@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "a8dd",
+      "title": "Avatar",
+      "genre": "Action",
+      "year": 2000
+    },
+    {
+      "id": "f1fe",
+      "title": "Avanger",
+      "genre": "Action",
+      "year": 2004
+    }
+  ]
+}
